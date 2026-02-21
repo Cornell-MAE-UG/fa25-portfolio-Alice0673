@@ -42,9 +42,10 @@ High School Diploma
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS FEA, ANSYS Maxwell  
-- **Programming:** C++, C, Java, OCaml, Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS FEA, ANSYS Maxwell
+- **Programming:** C++, C, Java, OCaml, Python, MATLAB
+- **Tools:** 3D Printing, Laser Cutting
 ---
 
 ## Research Experience
