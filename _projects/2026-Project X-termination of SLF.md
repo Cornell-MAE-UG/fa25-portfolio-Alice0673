@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Project X-termination of SLF
-permalink: /projects/O3-Client-Proposal/
+permalink: /projects/slf-2026/
 technologies: [Mechanical Design, Prototyping]
 image: /assets/images/spottedlanternflies.jpg
 ---
