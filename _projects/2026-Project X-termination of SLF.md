@@ -3,6 +3,7 @@ layout: project
 title: Project X-termination of SLF
 permalink: /projects/O3-Client-Proposal/
 technologies: [Mechanical Design, Prototyping]
+image: /assets/images/spottedlanternflies.jpg
 ---
 **Team:** SLF Crushers  
 
