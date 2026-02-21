@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Project X-termination of SLF
-permalink: /projects/slf/O3-Client-Proposal/
+permalink: /projects/O3-Client-Proposal/
 technologies: [Mechanical Design, Prototyping]
 ---
 **Team:** SLF Crushers  
