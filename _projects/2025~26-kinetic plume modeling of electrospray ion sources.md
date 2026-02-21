@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Kinetic Plume Modeling of Electrospray Ion Sources
+permalink: /projects/slf-2026/
 description: N-body simulation and defect sensitivity analysis for electrospray propulsion
 technologies: [C++, Python, VTK, YAML, Numerical Simulation]
 image: /assets/images/electrospray-plume.jpg

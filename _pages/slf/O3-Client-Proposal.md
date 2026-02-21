@@ -5,7 +5,7 @@ permalink: /projects/slf/o3-client-proposal/
 description: Initial client outline and problem framing
 technologies: [Mechanical Design, Prototyping]
 
-back_link: /projects/2026-Project X-termination of SLF/
+back_link: /projects/slf-2026/
 back_text: Back to 2026 Project X-termination of SLF
 ---
 
