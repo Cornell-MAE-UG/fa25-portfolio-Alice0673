@@ -10,6 +10,9 @@ layout: default
 
 <p><strong>Technologies Used</strong>: {{ page.technologies | join: ", " }}</p>
 
-<a href={{ "/projects/" | relative_url }} class="back-arrow">
-    <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
+{% if page.back_link %}
+  <a href="{{ page.back_link | relative_url }}">← {{ page.back_text }}</a>
+{% else %}
+  <a href="{{ '/projects/' | relative_url }}">← Back to Projects</a>
+{% endif %}
 </a>

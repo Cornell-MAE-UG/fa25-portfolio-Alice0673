@@ -1,10 +1,11 @@
 ---
 layout: project
 title: SLF – Initial Client Outline
-permalink: /projects/slf/O3-Client-Proposal/
+permalink: /projects/slf/o3-client-proposal/
 description: Initial client outline and problem framing
 technologies: [Mechanical Design, Prototyping]
-back_link: /projects/2026-Project X-termination of SLF/
+
+back_link: /projects/2026-project-x-termination-of-slf/
 back_text: Back to 2026 Project X-termination of SLF
 ---
 
