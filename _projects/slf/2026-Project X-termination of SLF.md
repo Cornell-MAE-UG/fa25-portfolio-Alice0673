@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Project X-termination of SLF
-permalink: /projects/slfXtermination/
+permalink: /projects/
 ---
 technologies: [Mechanical Design, Prototyping]
 ---
