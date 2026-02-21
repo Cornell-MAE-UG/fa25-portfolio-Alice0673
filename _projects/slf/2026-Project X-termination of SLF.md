@@ -1,12 +1,9 @@
 ---
 layout: project
 title: Project X-termination of SLF
-permalink: /projects/
----
+permalink: /projects/slf/
 technologies: [Mechanical Design, Prototyping]
 ---
-
-# Project X-termination of SLF  
 **Team:** SLF Crushers  
 
 ## Project Log
