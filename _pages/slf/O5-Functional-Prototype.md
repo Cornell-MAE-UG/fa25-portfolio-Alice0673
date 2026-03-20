@@ -1,6 +1,6 @@
 ---
 layout: project
-title: SLF – Initial Client Outline
+title: SLF – Initial Functional Prototype
 permalink: /projects/slf/o5-functional-prototype/
 description: Initial client outline and problem framing
 technologies: [Mechanical Design, Prototyping]
