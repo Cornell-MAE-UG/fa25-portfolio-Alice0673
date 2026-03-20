@@ -10,3 +10,4 @@ image: /assets/images/spottedlanternflies.jpg
 ## Project Log
 
 - [Initial Client Proposal & Pitch]({{ "/projects/slf/o3-client-proposal/" | relative_url }}) 
+- [Initial Functional Prototype]({{ "/projects/slf/o5-functional/prototype/" | relative_url }})
