@@ -170,7 +170,7 @@ A particularly important consideration for demonstration is **smooth motion**, a
 
 ---
 
-## Engineering Challenges
+## Engineering Challenges 
 This prototype revealed several key challenges:
 
 - **Over-constrained geometry** causing jamming  
