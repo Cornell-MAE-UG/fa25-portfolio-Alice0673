@@ -196,4 +196,4 @@ Future iterations will focus on:
 ---
 
 ## Prototype
-<img src="/assets/images/slf_prototype.jpg" alt="Prototype Image" width="400">
+<img src="/assets/images/slf_prototype.png" alt="Prototype Image" width="400">
